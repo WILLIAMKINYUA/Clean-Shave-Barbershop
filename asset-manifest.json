@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Clean-Shave-Barbershop/static/css/main.b96999bc.css",
+    "main.js": "/Clean-Shave-Barbershop/static/js/main.e0dbd21e.js",
+    "index.html": "/Clean-Shave-Barbershop/index.html",
+    "main.b96999bc.css.map": "/Clean-Shave-Barbershop/static/css/main.b96999bc.css.map",
+    "main.e0dbd21e.js.map": "/Clean-Shave-Barbershop/static/js/main.e0dbd21e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96999bc.css",
+    "static/js/main.e0dbd21e.js"
+  ]
+}
