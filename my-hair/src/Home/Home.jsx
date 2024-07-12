@@ -6,14 +6,14 @@ const Home = () => {
   return (
     <div className='homepage'>
         <div className="bgimages">
-            <img src="./ServiceImage/BarberImg2.jpg" alt="Not Found"className='bgimage' />
+            <img src="./ServiceImage/BarberImg2.JPG" alt="Not Found"className='bgimage' />
         </div>
         <h1 className='subtitle' >CleanShave Barbershop</h1>
         <h2 className='title'>Our Hairstyle makes you look elegance</h2>
         <div className="class">
         <section className="two">
         <div className="lefthome">
-            <img src="./big/pexels-thgusstavo-santana-2040189.jpg" alt="Not found" className='homeimage'/>
+            <img src="./big/pexels-thgusstavo-santana-2040189.JPG" alt="Not found" className='homeimage'/>
         </div>
         <div className="righthome">
             <h4 className='caption'>About our company</h4>
